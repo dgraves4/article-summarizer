@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+spacy
+spacytextblob  # Added for integrating spaCy with TextBlob
+textblob
+numpy
+matplotlib
+pandas

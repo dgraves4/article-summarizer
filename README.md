@@ -68,4 +68,4 @@ pip install -r requirements.txt
 
 ### Sources
 
-Original forked assignment found at: [denisecase/620-mod6-web-scraping](https://github.com/denisecase/620-mod6-web-scraping)
+Original forked assignment found at: [\[https://github.com/wmnlp-materials/article-summarizer](https://github.com/wmnlp-materials/article-summarizer)

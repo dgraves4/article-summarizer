@@ -4,6 +4,8 @@ This repository hosts the code and resources for the Article Summarizer, a final
 
 ## Questions answered:
 
+The following questions are worked through in a jupyter notebook using code and markdown cells:
+
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
 * (Question 2) Polarity score printed with an appropriate label: 1 pt
 * (Question 2) Number of sentences printed: 1 pt
